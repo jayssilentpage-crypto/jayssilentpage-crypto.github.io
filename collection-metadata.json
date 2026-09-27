@@ -1,0 +1,9 @@
+{
+  "name": "Telegram Usernames",
+  "description": "Unique addresses in Telegram's ecosystem of more than 700 million active users.",
+  "image": "https://i.imgur.com/URcSRk4.png",
+  "external_link": "https://t.me",
+  "social_links": {
+    "telegram": "https://t.me"
+  }
+}
